@@ -10,7 +10,10 @@ This repository contains **MCP (Model Context Protocol) servers** . Each folder 
 
 2. **LinkedIn Profile Server** 🔗  
    - Retrieves LinkedIn profile data via an external API from RapidAPI.  
-   - Enables AI models to process professional profile insights.  
+   - Enables AI models to process professional profile insights.
+  
+3. **Fetch PubMed Article Server** 🔗  
+   - Retrieves articles from PubMed given a query.  
 
 ## 🛠️ How to Use  
 
@@ -19,7 +22,7 @@ This repository contains **MCP (Model Context Protocol) servers** . Each folder 
    git clone https://github.com/AIAnytime/MCP-Servers.git
    cd MCP-Servers
    ```
-2. Navigate to the desired server folder.  
+2. Navigate to the desired server folder. Follow the respective README.md file for instructions.
 3. Watch the MCP Playlist on AI Anytime YT Channel if you face any problem.
 
 ## 📢 Contribute  
