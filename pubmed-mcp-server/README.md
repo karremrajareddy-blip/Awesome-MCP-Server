@@ -11,7 +11,7 @@ This repository contains an MCP server that searches PubMed for article abstract
 ## Prerequisites
 
 - Python 3.8 or higher
-- mcp[cli[]
+- mcp[cli]
 - BioPython
 
 ## Setup
