@@ -36,7 +36,7 @@ This repository contains an MCP server that searches PubMed for article abstract
    Ensure you have set a valid email address in the code (in `main.py`):
 
    ```python
-   Entrez.email = "aianytime07@gmail.com"
+   Entrez.email = "give an email address"
    ```
 
 ## Running the Server
