@@ -1,4 +1,4 @@
-# MCP-Servers 🚀  
+# Awesome-MCP-Server 🚀  
 
 This repository contains **MCP (Model Context Protocol) servers** . Each folder represents a different MCP server implementation.  
 
