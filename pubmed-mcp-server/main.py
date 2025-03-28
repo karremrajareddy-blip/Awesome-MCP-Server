@@ -6,7 +6,7 @@ import asyncio
 
 # Suppress warnings and set email for Entrez
 warnings.filterwarnings('ignore')
-Entrez.email = "aianytime07@gmail.com"
+Entrez.email = "your email"
 
 # Initialize FastMCP server
 mcp = FastMCP("pubmed")
