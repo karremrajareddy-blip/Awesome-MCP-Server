@@ -25,16 +25,10 @@ This repository contains an MCP server that searches PubMed for article abstract
 
 2. **Install Dependencies:**
 
-   You can install the required packages using pip:
+   You can install the required packages using uv:
 
    ```bash
-   pip install fastmcp biopython
-   ```
-
-   Alternatively, if a `requirements.txt` file is provided:
-
-   ```bash
-   pip install -r requirements.txt
+   uv add -r requirements.txt
    ```
 
 3. **Configure Entrez Email:**
